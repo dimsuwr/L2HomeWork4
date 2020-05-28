@@ -1,0 +1,149 @@
+VBox {
+    -fx-background-color: black;
+}
+/*
+ * Стиль для кнопок которые отвечают за набор цифр!
+ *
+ */
+#btn1{
+    -fx-background-color: #414141
+}
+
+#btn1: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn22{
+    -fx-background-color: #414141
+}
+
+#btn22: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn3{
+    -fx-background-color: #414141
+}
+
+#btn3: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn4{
+    -fx-background-color: #414141
+}
+
+#btn4: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+
+#btn5{
+    -fx-background-color: #414141
+}
+
+#btn5: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+
+#btn6{
+    -fx-background-color: #414141
+}
+
+#btn6: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+
+
+#btn7{
+    -fx-background-color: #414141
+}
+
+#btn7: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn8{
+    -fx-background-color: #414141
+}
+
+#btn8: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn9{
+    -fx-background-color: #414141
+}
+
+#btn9: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+#btn0{
+    -fx-background-color: #414141
+}
+
+#btn0: hover {
+   -fx-background-color: #2e2d2d;
+   -fx-font-size: 30;
+}
+
+/*
+ * Стиль для кнопок которые отвечают за математические действия!
+ *
+ */
+#btn01{
+    -fx-background-color: #fe9d12
+}
+
+#btn01: hover {
+   -fx-background-color: #d58614;
+   -fx-font-size: 24;
+}
+
+#btn02{
+    -fx-background-color: #fe9d12
+}
+
+#btn02: hover {
+   -fx-background-color: #d58614;
+   -fx-font-size: 24;
+}
+
+#btn03{
+    -fx-background-color: #fe9d12
+}
+
+#btn03:hover {
+   -fx-background-color: #d58614;
+   -fx-font-size: 24;
+}
+
+#btn04{
+    -fx-background-color: #fe9d12
+}
+
+#btn04:hover {
+   -fx-background-color: #d58614;
+   -fx-font-size: 24;
+}
+
+#btn05{
+    -fx-background-color: #fe9d12
+}
+
+#btn05:hover {
+   -fx-background-color: #d58614;
+   -fx-font-size: 24;
+}
